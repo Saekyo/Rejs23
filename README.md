@@ -13,7 +13,6 @@
 - 📝 I regulary write articles on [https://reskijunaedisalat1.wixsite.com/yakinbisa](https://reskijunaedisalat1.wixsite.com/yakinbisa)
 
 - 📫 How to reach me **reskijunaedisalat1@gmail.com**
-- 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rejs23&show_icons=true&locale=en&layout=compact" alt="rejs23" /></p>
