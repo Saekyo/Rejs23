@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Reski</h1>
 <h3 align="center">Junior programmer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rejs23&label=Profile%20views&color=0e75b6&style=flat" alt="rejs23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saekyo&label=Profile%20views&color=0e75b6&style=flat" alt="saekyo" /> </p>
 
-- 🔭 I’m currently working on [Kaguya Bot Discord](https://github.com/Rejs23/Kaguya-Bot-Discord)
+- 🔭 I’m currently working on [Kaguya Bot Discord](https://github.com/Saekyo/Kaguya-Bot-Discord)
 
 - 🌱 I’m currently learning **Website development**
 
@@ -12,9 +12,9 @@
 - 📫 How to reach me **reskijunaedisalat1@gmail.com**
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rejs23&show_icons=true&locale=en&layout=compact" alt="rejs23" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saekyo&show_icons=true&locale=en&layout=compact" alt="saekyo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rejs23&show_icons=true&locale=en" alt="rejs23" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saekyo&show_icons=true&locale=en" alt="saekyo" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
