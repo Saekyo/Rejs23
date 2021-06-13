@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reski</h1>
-<h3 align="center">Junior programmer from Indonesia</h3>
+<h3 align="center">Junior Programmer From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saekyo&label=Profile%20views&color=0e75b6&style=flat" alt="saekyo" /> </p>
 
@@ -24,4 +24,4 @@
 <a href="https://t.me/Saekyo" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="saekyo"/></a>
 <a href="mailto:reskijunaedisalat1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="saekyo"/></a>
 <a href="https://discordapp.com/users/435419273590996993/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/21wwlpi44jidkjrbinege4qqq?si=-9WmybBmQp-7pbqZGKyBFQ" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+<!-- <a href="https://open.spotify.com/user/21wwlpi44jidkjrbinege4qqq?si=-9WmybBmQp-7pbqZGKyBFQ" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a> -->
