@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saekyo&label=Profile%20views&color=0e75b6&style=flat" alt="saekyo" /> </p>
 
-- 🔭 I’m currently working on [Kaguya Bot Discord](https://github.com/Saekyo/Kaguya-Bot-Discord)
+- 🔭 I’m currently working on [Kaguya Bot Discord V2](https://github.com/Saekyo/Kaguya-Discord-Bot-V2)
 
 - 🌱 I’m currently learning **Website development**
 
