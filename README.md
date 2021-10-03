@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Kaguya Bot Discord V2](https://github.com/Saekyo/Kaguya-Discord-Bot-V2)
 
-- 🌱 I’m currently learning **Website development**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📝 I regulary write articles on [https://reskijunaedisalat1.wixsite.com/yakinbisa](https://reskijunaedisalat1.wixsite.com/yakinbisa)
 
