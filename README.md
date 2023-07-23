@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/reski-junaidi-shalat-3777151a1/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="reski junaidi shalat"/></a>
+<a href="https://www.linkedin.com/in/reski-junaidi-shalat/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="reski junaidi shalat"/></a>
 <a href="https://instagram.com/reski.js" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="reski.js"/></a>
 <!-- <a href="https://www.youtube.com/channel/UCpZMQZPWWW2gVPS8qOncbog?view_as=subscriber" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="saekyo"/></a> -->
 <a href="https://t.me/Saekyo" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="saekyo"/></a>
