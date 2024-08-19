@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Reski</h1>
-<h3 align="center">Junior Programmer From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saekyo&label=Profile%20views&color=0e75b6&style=flat" alt="saekyo" /> </p>
 
@@ -9,7 +8,7 @@
 
 - 📝 I regulary write articles on [https://reskijunaedisalat1.wixsite.com/yakinbisa](https://reskijunaedisalat1.wixsite.com/yakinbisa)
 
-- 📫 How to reach me **reskijunaedisalat1@gmail.com**
+- 📫 How to reach me **reskijunaidishalat@gmail.com**
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saekyo&show_icons=true&locale=en&layout=compact" alt="saekyo" /></p>
